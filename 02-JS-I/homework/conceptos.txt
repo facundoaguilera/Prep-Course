@@ -1,0 +1,13 @@
+Variables: Es algo a lo que le ponemos nombre donde guardamos un valor que puede variar en el tiempo, los valores que aloja pueden ser 
+de distinto tipo.
+
+Strings: Es un tipo de variable que contiene texto.
+
+Funciones (argumentos, return): son lineas de codigo encapsuladas que se ejecutan una tras otra en orden y se pueden usar para hacer 
+una tarea que se repite.
+Puede recibir argumentos, es decir, variables externas que las pasa el usuario, y retorna, (return), algun valor deseado.
+
+Declaraciones if: se usa para expresar condiciones, es decir, si pasa esto, if(pasa esto), entonces se ejecuta el codigo siguiente,
+si la condicion dentro de los parentesis no se cumple, entonces no se ejecuta el codigo que tiene a continuacion.
+
+Valores booleanos (true, false): son variables que pueden tener solo 2 valores,o true, (verdadero), o false, (falso).
