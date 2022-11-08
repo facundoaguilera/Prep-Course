@@ -1,0 +1,9 @@
+for : 
+    es una instruccion que repite el codigo encerrado entre llaves la veces que le especifiquemos. Debemos especificarle un valor de inicio, de finalizarcion 
+    y el paso con el cual se incrementa ese valor, es decir, puede ir de uno en uno, de dos en dos, etc..
+&& : este operador logico, (AND), se usa para evaluar 2 condiciones o mas condiciones, para que el resultado sea verdadero, todas las condiciones deben ser verdaderas,
+si una es falsa, el resultado final de la evaluacion sera falso.
+|| : el operador OR, se usa para evaluar condiciones en las cuales si una de ellas es verdadera, el resultado final sera verdadero sin importar el valor de los
+    otros argumentos, para que el resultado sea falso, todas las condiciones deben ser falsas.
+!  : el operador NOT, se usa para negar un resultado de verdad, es decir si ponemos delante de una condicion el operador !, este cambiara el resultado de la condicion
+de true a false o de false a true.
